@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\StructBook\StructBook\bin\Debug\net6.0\StructBook.exe
+C:\Users\ritik\source\repos\StructBook\StructBook\bin\Debug\net6.0\StructBook.deps.json
+C:\Users\ritik\source\repos\StructBook\StructBook\bin\Debug\net6.0\StructBook.runtimeconfig.json
+C:\Users\ritik\source\repos\StructBook\StructBook\bin\Debug\net6.0\StructBook.dll
+C:\Users\ritik\source\repos\StructBook\StructBook\bin\Debug\net6.0\StructBook.pdb
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\StructBook.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\StructBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\StructBook.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\StructBook.AssemblyInfo.cs
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\StructBook.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\StructBook.dll
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\refint\StructBook.dll
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\StructBook.pdb
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\StructBook.genruntimeconfig.cache
+C:\Users\ritik\source\repos\StructBook\StructBook\obj\Debug\net6.0\ref\StructBook.dll

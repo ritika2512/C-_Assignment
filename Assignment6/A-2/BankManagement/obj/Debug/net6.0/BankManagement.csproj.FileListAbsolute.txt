@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\BankManagement.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\BankManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\BankManagement.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\BankManagement.AssemblyInfo.cs
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\BankManagement\BankManagement\bin\Debug\net6.0\BankManagement.exe
+C:\Users\ritik\source\repos\BankManagement\BankManagement\bin\Debug\net6.0\BankManagement.deps.json
+C:\Users\ritik\source\repos\BankManagement\BankManagement\bin\Debug\net6.0\BankManagement.runtimeconfig.json
+C:\Users\ritik\source\repos\BankManagement\BankManagement\bin\Debug\net6.0\BankManagement.dll
+C:\Users\ritik\source\repos\BankManagement\BankManagement\bin\Debug\net6.0\BankManagement.pdb
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\BankManagement.dll
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\refint\BankManagement.dll
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\BankManagement.pdb
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\BankManagement.genruntimeconfig.cache
+C:\Users\ritik\source\repos\BankManagement\BankManagement\obj\Debug\net6.0\ref\BankManagement.dll

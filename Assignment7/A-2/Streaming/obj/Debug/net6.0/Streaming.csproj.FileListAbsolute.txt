@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\Streaming\Streaming\bin\Debug\net6.0\Streaming.exe
+C:\Users\ritik\source\repos\Streaming\Streaming\bin\Debug\net6.0\Streaming.deps.json
+C:\Users\ritik\source\repos\Streaming\Streaming\bin\Debug\net6.0\Streaming.runtimeconfig.json
+C:\Users\ritik\source\repos\Streaming\Streaming\bin\Debug\net6.0\Streaming.dll
+C:\Users\ritik\source\repos\Streaming\Streaming\bin\Debug\net6.0\Streaming.pdb
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\Streaming.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\Streaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\Streaming.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\Streaming.AssemblyInfo.cs
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\Streaming.dll
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\refint\Streaming.dll
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\Streaming.pdb
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\Streaming.genruntimeconfig.cache
+C:\Users\ritik\source\repos\Streaming\Streaming\obj\Debug\net6.0\ref\Streaming.dll

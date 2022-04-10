@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\bin\Debug\net6.0\ParamsArray.exe
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\bin\Debug\net6.0\ParamsArray.deps.json
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\bin\Debug\net6.0\ParamsArray.runtimeconfig.json
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\bin\Debug\net6.0\ParamsArray.dll
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\bin\Debug\net6.0\ParamsArray.pdb
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\ParamsArray.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\ParamsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\ParamsArray.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\ParamsArray.AssemblyInfo.cs
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\ParamsArray.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\ParamsArray.dll
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\refint\ParamsArray.dll
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\ParamsArray.pdb
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\ParamsArray.genruntimeconfig.cache
+C:\Users\ritik\source\repos\ParamsArray\ParamsArray\obj\Debug\net6.0\ref\ParamsArray.dll

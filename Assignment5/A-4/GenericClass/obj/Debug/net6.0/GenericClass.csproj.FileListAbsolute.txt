@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\GenericClass\GenericClass\bin\Debug\net6.0\GenericClass.exe
+C:\Users\ritik\source\repos\GenericClass\GenericClass\bin\Debug\net6.0\GenericClass.deps.json
+C:\Users\ritik\source\repos\GenericClass\GenericClass\bin\Debug\net6.0\GenericClass.runtimeconfig.json
+C:\Users\ritik\source\repos\GenericClass\GenericClass\bin\Debug\net6.0\GenericClass.dll
+C:\Users\ritik\source\repos\GenericClass\GenericClass\bin\Debug\net6.0\GenericClass.pdb
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\GenericClass.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\GenericClass.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\GenericClass.AssemblyInfo.cs
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\GenericClass.dll
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\refint\GenericClass.dll
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\GenericClass.pdb
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\GenericClass.genruntimeconfig.cache
+C:\Users\ritik\source\repos\GenericClass\GenericClass\obj\Debug\net6.0\ref\GenericClass.dll

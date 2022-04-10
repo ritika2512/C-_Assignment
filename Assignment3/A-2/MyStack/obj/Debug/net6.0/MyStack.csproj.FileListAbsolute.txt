@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\MyStack.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\MyStack.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\MyStack.AssemblyInfo.cs
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\MyStack\MyStack\bin\Debug\net6.0\MyStack.exe
+C:\Users\ritik\source\repos\MyStack\MyStack\bin\Debug\net6.0\MyStack.deps.json
+C:\Users\ritik\source\repos\MyStack\MyStack\bin\Debug\net6.0\MyStack.runtimeconfig.json
+C:\Users\ritik\source\repos\MyStack\MyStack\bin\Debug\net6.0\MyStack.dll
+C:\Users\ritik\source\repos\MyStack\MyStack\bin\Debug\net6.0\MyStack.pdb
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\MyStack.dll
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\refint\MyStack.dll
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\MyStack.pdb
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\MyStack.genruntimeconfig.cache
+C:\Users\ritik\source\repos\MyStack\MyStack\obj\Debug\net6.0\ref\MyStack.dll

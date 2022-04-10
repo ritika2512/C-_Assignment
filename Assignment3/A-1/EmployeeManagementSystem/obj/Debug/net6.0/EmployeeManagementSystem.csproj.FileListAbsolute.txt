@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.exe
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.deps.json
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.dll
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.pdb
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.dll
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\refint\EmployeeManagementSystem.dll
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.pdb
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\ritik\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0\ref\EmployeeManagementSystem.dll

@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\CollectionClass.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\CollectionClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\CollectionClass.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\CollectionClass.AssemblyInfo.cs
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\CollectionClass.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\bin\Debug\net6.0\CollectionClass.exe
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\bin\Debug\net6.0\CollectionClass.deps.json
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\bin\Debug\net6.0\CollectionClass.runtimeconfig.json
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\bin\Debug\net6.0\CollectionClass.dll
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\bin\Debug\net6.0\CollectionClass.pdb
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\CollectionClass.dll
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\refint\CollectionClass.dll
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\CollectionClass.pdb
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\CollectionClass.genruntimeconfig.cache
+C:\Users\ritik\source\repos\CollectionClass\CollectionClass\obj\Debug\net6.0\ref\CollectionClass.dll

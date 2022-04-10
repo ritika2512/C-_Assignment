@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\bin\Debug\net6.0\MaximumMarks.exe
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\bin\Debug\net6.0\MaximumMarks.deps.json
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\bin\Debug\net6.0\MaximumMarks.runtimeconfig.json
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\bin\Debug\net6.0\MaximumMarks.dll
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\bin\Debug\net6.0\MaximumMarks.pdb
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\MaximumMarks.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\MaximumMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\MaximumMarks.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\MaximumMarks.AssemblyInfo.cs
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\MaximumMarks.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\MaximumMarks.dll
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\refint\MaximumMarks.dll
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\MaximumMarks.pdb
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\MaximumMarks.genruntimeconfig.cache
+C:\Users\ritik\source\repos\MaximumMarks\MaximumMarks\obj\Debug\net6.0\ref\MaximumMarks.dll

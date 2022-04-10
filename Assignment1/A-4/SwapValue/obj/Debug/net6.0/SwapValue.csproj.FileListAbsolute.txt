@@ -1,0 +1,15 @@
+C:\Users\ritik\source\repos\SwapValue\SwapValue\bin\Debug\net6.0\SwapValue.exe
+C:\Users\ritik\source\repos\SwapValue\SwapValue\bin\Debug\net6.0\SwapValue.deps.json
+C:\Users\ritik\source\repos\SwapValue\SwapValue\bin\Debug\net6.0\SwapValue.runtimeconfig.json
+C:\Users\ritik\source\repos\SwapValue\SwapValue\bin\Debug\net6.0\SwapValue.dll
+C:\Users\ritik\source\repos\SwapValue\SwapValue\bin\Debug\net6.0\SwapValue.pdb
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\SwapValue.csproj.AssemblyReference.cache
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\SwapValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\SwapValue.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\SwapValue.AssemblyInfo.cs
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\SwapValue.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\SwapValue.dll
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\refint\SwapValue.dll
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\SwapValue.pdb
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\SwapValue.genruntimeconfig.cache
+C:\Users\ritik\source\repos\SwapValue\SwapValue\obj\Debug\net6.0\ref\SwapValue.dll
